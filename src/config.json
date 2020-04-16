@@ -1,0 +1,4 @@
+{
+    "apiUrl" : "https://api.nasa.gov/neo/rest/v1/neo/",
+    "nasaApiKey" : "PRDwh70jH6egMc1dDdej1lx2aCPdHA5bj2JjOjBg"
+}
